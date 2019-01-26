@@ -10,4 +10,5 @@ github_username:  tejasPatell
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minima:
+theme: jekyll-theme-hacker 
+
